@@ -5,10 +5,8 @@
 This Looker Studio dashboard provides interactive visualisations and insights derived from the marketing campaign data. It offers a comprehensive view of key metrics and trends, enabling the stakeholders to make data-driven decisions and optimise marketing strategies.
 
 ## Features
-### Interactive Visualisations: 
-  Explore the data dynamically through interactive charts, graphs, and tables.
-### Key Metrics Overview: 
-  Gain insights into essential metrics such as impressions, clicks, conversions, revenue, and spend.
+Interactive Visualisations: Explore the data dynamically through interactive charts, graphs, and tables.
+Key Metrics Overview: Gain insights into essential metrics such as impressions, clicks, conversions, revenue, and spend.
 ### Trend Analysis: 
   Track trends over time and identify patterns to understand campaign performance.
 ### Segmentation: 
